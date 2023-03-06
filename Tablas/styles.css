@@ -1,0 +1,18 @@
+
+table{width: 100%;}
+td {text-align: center;}
+th{text-align: center;
+    color:white; 
+    background-color: blue;
+}
+caption{color: red ;
+font-family: 'Oswald', sans-serif;
+font-size: 50px;
+line-height: 70px;
+}
+tr:nth-child(even){background-color: aqua;}
+tr:nth-child(odd){background-color: red;}table,th,td{border: 1px solid black;
+border-collapse: 50px;
+padding: 5px;}
+
+
